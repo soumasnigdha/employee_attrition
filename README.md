@@ -48,5 +48,3 @@ Employee attrition is linked to a combination of categorical and numerical facto
 ## Model Selection
 
 The Support Vector Classifier (SVC) was chosen as the best model due to its high accuracy (0.8980) and low false positive rate (23).
-
-## Repository Structure
