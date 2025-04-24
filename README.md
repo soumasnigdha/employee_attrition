@@ -45,11 +45,11 @@ Employee attrition is linked to a combination of categorical and numerical facto
 
 * **Strongest Predictors:** Compensation and tenure-related features are the strongest overall predictors of attrition.
 
-(https://github.com/soumasnigdha/employee_attrition/blob/main/histogram_kde.png)
+![histogram_kde](https://github.com/soumasnigdha/employee_attrition/blob/main/histogram_kde.png)
 
-(https://github.com/soumasnigdha/employee_attrition/blob/main/barplot.png)
+![barplot](https://github.com/soumasnigdha/employee_attrition/blob/main/barplot.png)
 
-(https://github.com/soumasnigdha/employee_attrition/blob/main/heatmap.png)
+![heatmap](https://github.com/soumasnigdha/employee_attrition/blob/main/heatmap.png)
 
 
 ## Model Selection
