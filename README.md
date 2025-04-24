@@ -45,6 +45,13 @@ Employee attrition is linked to a combination of categorical and numerical facto
 
 * **Strongest Predictors:** Compensation and tenure-related features are the strongest overall predictors of attrition.
 
+[https://github.com/soumasnigdha/employee_attrition/blob/main/histogram_kde.png]
+
+[https://github.com/soumasnigdha/employee_attrition/blob/main/barplot.png]
+
+[https://github.com/soumasnigdha/employee_attrition/blob/main/heatmap.png]
+
+
 ## Model Selection
 
 The Support Vector Classifier (SVC) was chosen as the best model due to its high accuracy (0.8980) and low false positive rate (23).
