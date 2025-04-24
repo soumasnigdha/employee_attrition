@@ -12,7 +12,7 @@ This project focuses on analyzing employee attrition using the IBM HR Analytics 
 * Model training and hyperparameter tuning for several classification algorithms:
     * Random Forest
     * Gradient Boosting
-    * CatBoos tClassifier
+    * CatBoost Classifier
     * XGBoost Classifier
     * Decision Tree Classifier
     * Support Vector Classifier (SVC)
